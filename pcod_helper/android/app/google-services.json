@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "807487548243",
+    "firebase_url": "https://pcodhelper.firebaseio.com",
+    "project_id": "pcodhelper",
+    "storage_bucket": "pcodhelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807487548243:android:6995400d1777c398f50fa6",
+        "android_client_info": {
+          "package_name": "com.example.pcod_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807487548243-4mpg70dbj6prv2i88slq59fet59htpev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspYeYsaHb5DcY5eVp-3y-Gy9jZUh7v_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807487548243-4mpg70dbj6prv2i88slq59fet59htpev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
