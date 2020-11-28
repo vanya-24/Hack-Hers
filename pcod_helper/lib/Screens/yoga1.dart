@@ -31,7 +31,7 @@ class _YogaPageState extends State<YogaPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-      appBar: AppBar(
+      /* appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
         leading: IconButton(
@@ -39,7 +39,7 @@ class _YogaPageState extends State<YogaPage> {
           icon: Icon(Icons.arrow_back_ios),
           color: Colors.black,
         ),
-      ),
+      ), */
       body: Stack(
         children: <Widget>[
           Column(
